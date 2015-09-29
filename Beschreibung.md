@@ -11,6 +11,9 @@ Kurzes Beispiel:
 Programm: "Spieler steht in einem Wald, vor Ihm sieht er eine Weggabelung welchen Weg soll gegangen werden? Links oder Rechts?"
 Spieler: Tippt ein "Links" oder "Rechts" worauf hin andere Ereignisse resultieren.
 
+Über Themen wie Charaktäre, Setting, Handlung usw. können wir uns gerne in der Gruppe zusammen setzen oder
+wie machen Skype-Konfi's/TeamSpeak-Konfi's.
+
 Würde mich sehr freuen, wenn sich ein paar begeisterte, kreative Mitstreiter finden.
 
 Lieben Gruß,
