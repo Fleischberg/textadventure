@@ -17,4 +17,5 @@ Lieben Gruß,
 Daniel Decker
 
 Mail: daniel.decker@haw-hamburg.de
+
 WhatsApp: 015756845331
