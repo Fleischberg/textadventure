@@ -16,4 +16,5 @@ Würde mich sehr freuen, wenn sich ein paar begeisterte, kreative Mitstreiter fi
 Lieben Gruß,
 Daniel Decker
 
+Mail: daniel.decker@haw-hamburg.de
 WhatsApp: 015756845331
